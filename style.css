@@ -1,0 +1,21 @@
+/*
+ *Name: Maddox Cotten
+ *UnityID: mccotten
+ *Date: 11.17.23
+ *Assignment: IA 4
+ *Description: style sheet, IA 4
+ */
+ 
+p {
+    color:808080;
+}
+
+.table-border {
+    border: 1px solid #000000;
+}
+
+#photo-resize {
+	border 2px solid #008000;
+    max-width:200px;
+    max-height: 250px;
+}
